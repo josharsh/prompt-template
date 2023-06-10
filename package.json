@@ -1,0 +1,12 @@
+{
+    "name": "prompt-template",
+    "version": "1.0.0",
+    "description": "Generate prompt templates for large language models",
+    "main": "dist/index.js",
+    "types": "src/index.ts",
+    "scripts": {
+      "build": "tsc"
+    },
+    "author": "josharsh",
+    "license": "MIT License"
+  }
