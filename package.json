@@ -1,6 +1,6 @@
 {
     "name": "prompt-template",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Generate prompt templates for large language models",
     "main": "dist/index.js",
     "types": "src/index.ts",
@@ -8,5 +8,16 @@
       "build": "tsc"
     },
     "author": "josharsh",
-    "license": "MIT License"
+    "license": "MIT License",
+    "keywords": [
+        "ai",
+        "llm",
+        "langchain",
+        "prompts",
+        "typescript",
+        "generative AI",
+        "gpt",
+        "openai",
+        "gpt typescript"
+      ]
   }
