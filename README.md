@@ -1,11 +1,6 @@
-# prompt-template
-
-
-# Prompt Template
 Create predefined prompt templates for large language models in typescript to save your users time and effort! 
 
 ## Description
-
 Prompt Template Generator is a TypeScript NPM package designed to help you create dynamic and customizable prompt templates. This is especially useful for crafting dialogues with AI, simplifying user experiences, and enhancing the ease of text generation.
 
 ## Installation
